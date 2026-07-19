@@ -94,4 +94,6 @@ Distributed under the MIT License. See LICENSE for details.
 ## 📬 Contact for purchasing the tool
 
 ```GitHub – wlzbi-exe```
-``` Telegram – @rejerks```
+<a href="https://t.me/Wlzbi">
+<img src="https://img.shields.io/badge/DM-@rejerks-26A5E4?style=for-the-badge&logo=telegram"/>
+</a>
