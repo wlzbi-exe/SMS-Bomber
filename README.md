@@ -91,7 +91,7 @@ Distributed under the MIT License. See LICENSE for details.
 
 ---
 
-## 📬 Contact
+## 📬 Contact for purchasing the tool
 
-```GitHub – wlzbi-exe/SMS-Bomber```
+```GitHub – wlzbi-exe```
 ``` Telegram – @rejerks```
