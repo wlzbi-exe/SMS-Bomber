@@ -92,8 +92,26 @@ Distributed under the MIT License. See LICENSE for details.
 ---
 
 ## 📬 Contact for purchasing the tool
+<p align="center">
 
-```GitHub – wlzbi-exe```
-<a href="https://t.me/Wlzbi">
-<img src="https://img.shields.io/badge/DM-@rejerks-26A5E4?style=for-the-badge&logo=telegram"/>
+<img src="https://img.shields.io/badge/DEV-WLZBI-black?style=for-the-badge&logo=github">
+
+</p>
+
+
+<p align="center">
+
+<a href="https://github.com/wlzbi-exe">
+<img src="https://img.shields.io/badge/GitHub-wlzbi--exe-181717?style=for-the-badge&logo=github">
 </a>
+
+<a href="https://t.me/rejerks">
+<img src="https://img.shields.io/badge/Telegram-@rejerks-26A5E4?style=for-the-badge&logo=telegram">
+</a>
+
+</p>
+
+
+<p align="center">
+BY <b>WLZBI</b>
+</p>
