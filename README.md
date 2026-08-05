@@ -1,6 +1,5 @@
 # SMS-Bomber
-SMS-Bomber – A high‑performance, multi‑threaded OTP flooding tool for educational security testing. Supports 130+ Indian endpoints, 100 concurrent threads, live stats, and rotating user‑agents. Obviously Paid 
-
+SMS-Bomber – A high‑performance, multi‑threaded OTP flooding tool for educational security testing. Supports 130+ Indian endpoints, 100 concurrent threads, live stats, and rotating user‑agents.
 # 🔥 Features
 
 · 130+ active OTP endpoints – covers major Indian services (e‑commerce, fintech, food delivery, ride‑hailing, travel, etc.)
